@@ -1,0 +1,5 @@
+package com.example.evo_finder
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

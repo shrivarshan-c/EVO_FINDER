@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042591431547",
+    "project_id": "evo-finder-f6c9e",
+    "storage_bucket": "evo-finder-f6c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042591431547:android:6123dcdbc424808e065bde",
+        "android_client_info": {
+          "package_name": "com.example.evo_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1NvM6liEjjy0COrM4IMBxUOIsS0GZlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
